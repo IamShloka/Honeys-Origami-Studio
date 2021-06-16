@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+}
+h2{
+    color: peru;
+}
+h3{
+    color: peru;
+}
+
+.background{
+    background-color: rgb(238, 240, 130);
+
+}
+
+.header{
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
